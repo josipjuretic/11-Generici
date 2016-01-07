@@ -26,9 +26,9 @@ namespace Vsite.CSharp
 
                 // TODO: Umjesto da ispisuje objekt osoba, donju petlju promijeniti tako da u naredbi Console.WriteLine ispisuje član 'Ime' za svaku osobu. Pokreniti program, a ispis prekopirati u datoteku "TipskiNesigurneKolekcije2.txt"
 
-                foreach (var osoba in osobe)
+                foreach (Osoba osoba in osobe)
                 {
-                    Console.WriteLine(osoba);
+                    Console.WriteLine(osoba.Ime);
                 }
             }
             catch (Exception e)

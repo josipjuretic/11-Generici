@@ -16,5 +16,10 @@ namespace Vsite.CSharp
 
         public readonly string Ime;
         public readonly DateTime DatumRodjenja;
+
+        internal static void Add(DateTime dateTime)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

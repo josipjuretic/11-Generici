@@ -1,1 +1,5 @@
-﻿
+﻿Marica
+Ivica
+System.InvalidCastException: Unable to cast object of type 'System.DateTime' to type 'Vsite.CSharp.Osoba'.
+   at Vsite.CSharp.Program.Main(String[] args) in c:\Users\Zeus\Documents\GitHub\11-Generici\TipskiNesigurneKolekcije\TipskiNesigurneKolekcije.cs:line 29
+Gotovo!!!

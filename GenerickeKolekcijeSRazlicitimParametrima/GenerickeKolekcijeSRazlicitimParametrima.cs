@@ -36,7 +36,7 @@ namespace Vsite.CSharp
             numbers.Add("two", "dva");
             numbers.Add("three", "tri");
 
-            // TODO: Otkomentirati donju naredbu i provjerite pogrešku koju prevoditelj prijavljuje
+            // Otkomentirati donju naredbu i provjerite pogrešku koju prevoditelj prijavljuje
             //brojevi = numbers;
 
             Console.WriteLine("Gotovo!!!");
